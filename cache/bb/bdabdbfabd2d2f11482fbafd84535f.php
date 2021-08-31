@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:2:{s:7:"default";a:10:{s:4:"name";s:6:"测试";s:6:"app_id";s:18:"wxe1d6316d6cd35ed7";s:10:"app_secret";s:32:"cc52e640c169fdd4ca0e75efba0a5d9c";s:5:"mchid";s:0:"";s:6:"apiKey";s:0:"";s:5:"money";s:0:"";s:10:"is_default";s:1:"1";s:7:"_plugin";s:5:"wxapp";s:11:"_controller";s:11:"admin_wxapp";s:7:"_action";s:7:"addpost";}s:6:"wxapps";a:1:{s:18:"wxe1d6316d6cd35ed7";a:9:{s:4:"name";s:6:"测试";s:6:"app_id";s:18:"wxe1d6316d6cd35ed7";s:10:"app_secret";s:32:"cc52e640c169fdd4ca0e75efba0a5d9c";s:5:"mchid";s:0:"";s:6:"apiKey";s:0:"";s:5:"money";s:0:"";s:7:"_plugin";s:5:"wxapp";s:11:"_controller";s:11:"admin_wxapp";s:7:"_action";s:7:"addpost";}}}
